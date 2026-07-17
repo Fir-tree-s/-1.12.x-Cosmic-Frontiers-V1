@@ -6,7 +6,7 @@
 ## Features
 - The first additional system Cosmic Frontiers brings into the game is a Gigantia System an Hostile Red Hypergiant system located 1227 tm away.
 - Wormholes around jool for faster travel
-- Customabizle settings
+- customizable settings
 
 ## Dependencies
 - Kopernicus
