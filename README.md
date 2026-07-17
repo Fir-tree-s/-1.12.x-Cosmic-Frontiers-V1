@@ -3,7 +3,16 @@
 
 ## Features
 - Cosmic Frontiers aims to bring more extreme world into kerbal space program while still having stock alike feel.Explore dangerous planets and their unique moons.
-## Dependencies
-## Compatible mods
 ## Changelog
-- 
+
+## Dependencies
+- Kopernicus
+- Kopernicus Expansion (needed for wormholes to appear)
+
+
+
+## Supported mods
+- Parralax Continued
+- Volumetric cloads (v5 only
+- Singularity
+- SPVE (for auroras to work
