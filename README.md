@@ -11,6 +11,7 @@
 ## Dependencies
 - Kopernicus
 - Kopernicus Expansion (needed for wormholes to appear)
+- VertexMitchellNetravaliHeightMap
   ![alt text](https://github.com/Fir-tree-s/-1.12.x-Cosmic-Frontiers-V1/blob/main/cosmic-frontiers-development-update-v0-ilfftbdzauch1.png)
 
 
