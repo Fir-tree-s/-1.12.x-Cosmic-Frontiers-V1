@@ -19,5 +19,4 @@
 - Parralax Continued
 - Volumetric cloads (v5 only
 - Singularity
-- SPVE (for auroras to work
 - Scaterer
