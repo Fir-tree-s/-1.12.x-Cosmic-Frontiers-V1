@@ -3,6 +3,7 @@
 
 ## About Mod
 - Cosmic Frontiers aims to bring more extreme world into Kerbal space program.Explore dangerous planets and their unique moons.
+-  ![alt text](https://github.com/Fir-tree-s/-1.12.x-Cosmic-Frontiers-V1/blob/main/Sn%C3%ADmek%20obrazovky%202026-07-29%20113954.png).
 ## Features
 - The first additional system Cosmic Frontiers brings into the game is a Gigantia System an Hostile Red Hypergiant system with melting planets and massive gas giants located 1227 tm away 
 - Wormholes around jool for faster travel
