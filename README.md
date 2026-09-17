@@ -23,4 +23,5 @@
 - Volumetric cloads (v5 only
 - Singularity
 - Scaterer
-- SPVE ( fór auroras i just made the config i Will make my own auroras soon
+- scaled decor
+
